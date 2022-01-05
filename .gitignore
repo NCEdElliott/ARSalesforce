@@ -1,3 +1,6 @@
+# Don't allow actual security keys to go to GitHub
+ARSalesforce/bootconfig.plist
+
 DerivedData
 project.xcworkspace
 *.iml
